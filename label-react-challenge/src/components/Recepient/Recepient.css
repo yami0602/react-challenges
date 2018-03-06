@@ -1,0 +1,6 @@
+.recipient-label {
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	margin-top: 92px;
+}
